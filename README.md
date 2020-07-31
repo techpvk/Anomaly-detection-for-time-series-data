@@ -7,8 +7,8 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 ## Anomaly Detection Software
 
 
-| Name          | Language       | Pitch     | License | Maintained
-| ------------- |:-------------: | :-------------: |  :-------------:  |  :-------------:     
+| Name          | Language       | Pitch     | License | Maintained | Monitoring | Remarks
+| ------------- |:-------------: | :-------------: |  :-------------:  |  :-------------: | :-------------: | :-------------:     
 | Expedia.com's [Adaptive Alerting](https://github.com/ExpediaDotCom/adaptive-alerting) | Java | Streaming anomaly detection with automated model selection and fitting. | Apache-2.0 | :heavy_check_mark:
 | Arundo's [ADTK](https://github.com/arundo/adtk) | Python | Anomaly Detection Toolkit (ADTK) is a Python package for unsupervised / rule-based time series anomaly detection. | MPL 2.0 | :heavy_check_mark:
 | Twitter's [AnomalyDetection](https://github.com/twitter/AnomalyDetection)| R      |AnomalyDetection is an open-source R package to detect anomalies which is robust, from a statistical standpoint, in the presence of seasonality and an underlying trend.   | GPL | ❌
