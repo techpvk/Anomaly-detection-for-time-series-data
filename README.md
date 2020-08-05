@@ -9,9 +9,9 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 
 | Name          | Language       | Pitch     | License | Maintained | Monitoring|models | Remarks
 | ------------- |:-------------: | :-------------: |  :-------------:  |  :-------------:|  :-------------: | :-------------: | :-------------:     
-| Expedia.com's [Adaptive Alerting](https://github.com/ExpediaDotCom/adaptive-alerting) | Java | Streaming anomaly detection with automated model selection and fitting. | Apache-2.0 | :heavy_check_mark:|||Need to look at the deeplearning adaptability + model training and serving   |
+| Expedia.com's [Adaptive Alerting](https://github.com/ExpediaDotCom/adaptive-alerting) | Java | Streaming anomaly detection with automated model selection and fitting. | Apache-2.0 | :heavy_check_mark:|||Need to look at the deeplearning adaptability + model training and serving+grafana integration ,no flexibility towards  aggregation(but we can implement it) |
 | Yahoo's [EGADS](https://github.com/yahoo/egads)                          | Java   |GADS is a library that contains a number of anomaly detection techniques applicable to many use-cases in a single package with the only dependency being Java.    | GPL | :heavy_check_mark:
-| Netflix's [Surus](https://github.com/netflix/surus)                      | Java   |Robust Anomaly Detection (RAD) - An implementation of the Robust PCA.   | Apache-2.0 | ❌ 
+| Netflix's [Surus](https://github.com/netflix/surus)                      | Java   |Robust Anomaly Detection (RAD) - An implementation of the Robust PCA.   | Apache-2.0 | ❌ ||| Not being maintained/active from some days
 | Arundo's [ADTK](https://github.com/arundo/adtk) | Python | Anomaly Detection Toolkit (ADTK) is a Python package for unsupervised / rule-based time series anomaly detection. | MPL 2.0 | :heavy_check_mark:
 | [banpei](https://github.com/tsurubee/banpei)| Python | Outlier detection (Hotelling's theory) and Change point detection (Singular spectrum transformation) for time-series. | MIT | :heavy_check_mark:
 | [CAD](https://github.com/smirmik/CAD) | Python | Contextual Anomaly Detection for real-time AD on streagming data (winner algorithm of the 2016 NAB competition). | AGPL | ❌
